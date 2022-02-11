@@ -6,11 +6,11 @@ pointcloud_api.py: This module has been build to have an standard API to interac
 __author__          = "Robert Rijnbeek"
 __version__         = "1.0.1"
 __maintainer__      = "Robert Rijnbeek"
-__email__           = "r.rijnbeek@dinsa.es"
+__email__           = "robert270384@gmail.com"
 __status__          = "Development"
 
-__creation_date__   = '11/09/2019'
-__last_update__     = '11/09/2019'
+__creation_date__   = '11/02/2022'
+__last_update__     = '11/02/2022'
 
 # =============== IMPORTS ===============
 
@@ -24,7 +24,7 @@ from scipy.stats import binned_statistic_dd
 
 # ===============  CODE  ===============
 
-class PointCloud_API:
+class GeometricManipulation:
     def __init__(self):
         pass
 
