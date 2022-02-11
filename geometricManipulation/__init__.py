@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-pointcloud_api.py: This module has been build to have an standard API to interact with pointcloud data, lines, planes and statisticall information
+\geometricManipulations\__init__.py: This module has been build to have an standard class to interact with pointcloud data, lines, planes and statisticall information
 """
 __author__          = "Robert Rijnbeek"
 __version__         = "1.0.1"
